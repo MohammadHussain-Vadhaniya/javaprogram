@@ -40,3 +40,9 @@ class Stringfunction
         String replaceString=s1.replace("Mohammad","Ali");//replaces all occurrences of "Java" to "Kava"      
         System.out.println(replaceString);   
     }
+    public static void main(String ar[])  
+    {  
+        String s1="  Mohammad Virat Kohli  ";      
+        String replaceString=s1.replace("Mohammad","Ali");//replaces all occurrences of "Java" to "Kava"      
+        System.out.println(replaceString);   
+    }
